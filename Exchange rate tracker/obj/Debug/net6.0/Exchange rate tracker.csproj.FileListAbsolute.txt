@@ -1,0 +1,15 @@
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\bin\Debug\net6.0\Exchange rate tracker.exe
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\bin\Debug\net6.0\Exchange rate tracker.deps.json
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\bin\Debug\net6.0\Exchange rate tracker.runtimeconfig.json
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\bin\Debug\net6.0\Exchange rate tracker.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\bin\Debug\net6.0\Exchange rate tracker.pdb
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.csproj.AssemblyReference.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.AssemblyInfoInputs.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.AssemblyInfo.cs
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.csproj.CoreCompileInputs.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\refint\Exchange rate tracker.dll
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.pdb
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\Exchange rate tracker.genruntimeconfig.cache
+C:\Users\THERE WAS PIPIKO\source\repos\Exchange rate tracker\Exchange rate tracker\obj\Debug\net6.0\ref\Exchange rate tracker.dll
